@@ -1,0 +1,19 @@
+html {
+    font-family: sans-serif;
+}
+
+body{
+    margin: 0;
+}
+
+#head{
+    text-align: center;
+    background-color: darkred;
+    color: white;
+    height: 5rem;
+}
+#head h1{
+    position: relative;
+    margin: 0;
+    padding: 1.5rem;
+}
